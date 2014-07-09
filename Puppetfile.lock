@@ -1,0 +1,19 @@
+FORGE
+  remote: https://forgeapi.puppetlabs.com
+  specs:
+    hubspot/nexus (1.2.0)
+      maestrodev/wget (>= 1.0.0)
+      puppetlabs/stdlib (>= 0.0.0)
+    maestrodev/wget (1.4.4)
+    puppetlabs/java (1.1.1)
+      puppetlabs/stdlib (>= 0.1.6)
+    puppetlabs/nginx (99.99.99)
+      puppetlabs/stdlib (>= 0.1.6)
+    puppetlabs/stdlib (4.2.2)
+
+DEPENDENCIES
+  hubspot/nexus (>= 0)
+  puppetlabs/java (>= 0)
+  puppetlabs/nginx (>= 0)
+  puppetlabs/stdlib (>= 0)
+
