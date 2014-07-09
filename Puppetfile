@@ -5,8 +5,8 @@
 forge "http://forge.puppetlabs.com"
 
 mod 'puppetlabs/stdlib'
+mod 'jfryman/nginx'
 mod 'hubspot/nexus'
-mod 'puppetlabs/nginx'
 mod 'puppetlabs/java'
 
 # mod 'ntp',
